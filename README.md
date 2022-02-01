@@ -1,4 +1,4 @@
-### Hi "<Dev />", You found me! 👋
+### Hi <Dev / >, You found me! 👋
 
 
 - 🔭 I’m currently working on a green alternative app, that shows users environment friendly aalternatives to some harmful products.
