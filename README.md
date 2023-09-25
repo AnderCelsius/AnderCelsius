@@ -1,4 +1,4 @@
-### Hi <Dev / >, You found me! 👋
+### Hi, You found me! 👋
 
 
 
